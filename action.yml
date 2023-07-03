@@ -1,4 +1,4 @@
-name: 'Deploy to Firebase Functions with targets'
+name: 'Deploy to Firebase Functions with targets node version update'
 author: 'Adu developer <developer@vetflux.com>, vetflux'
 description: 'A GitHub Action to deploy to Firebase Functions modified to allow production or development deployment'
 runs:
